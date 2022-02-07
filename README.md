@@ -1,12 +1,17 @@
-### Hi there 👋
+## Hi there 👋
 
-- ⚡ Work experience:
-  • Information Technology Intern at NORMA Group
-  • [Sorting Algorithms Visualizer](https://github.com/Dfredude/sorting-visualizer)
+### ⚡ Work experience:
+- Information Technology Intern at NORMA Group
+- [Sorting Algorithms Visualizer](https://github.com/Dfredude/sorting-visualizer)
 
-- 🔭 I’m currently working on:
-  • [Food App](https://github.com/Dfredude/food-bot)
-  • Algorithmic Trading System
+### 🔭 I’m currently working on:
+- [Food App](https://github.com/Dfredude/food-bot)
+- Algorithmic Trading System
+
+### 👯 I’m looking to collaborate on:
+- Software development
+- Machine Learning
+- Automation
 
 
 <!--
