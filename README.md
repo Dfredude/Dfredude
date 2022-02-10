@@ -13,7 +13,8 @@
 - Machine Learning
 - Automation
 
-
+### 🐍 Fun fact:
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=dfredude&theme=blue-green)
 <!--
 **Dfredude/Dfredude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
