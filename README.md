@@ -8,6 +8,7 @@
 ### 🔭 I’m currently working on:
 - [Food App](https://github.com/Dfredude/food-bot)
 - [Zen](https://github.com/heben-mx/zen)
+- [Pokemon Pokedex](https://github.com/Pancartex/pokemon-pokedex)
 - Algorithmic Trading System
 
 ### 👯 I’m looking to collaborate on:
