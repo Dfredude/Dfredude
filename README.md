@@ -7,6 +7,7 @@
 
 ### 🔭 I’m currently working on:
 - [Food App](https://github.com/Dfredude/food-bot)
+- [Zen](https://github.com/heben-mx/zen)
 - Algorithmic Trading System
 
 ### 👯 I’m looking to collaborate on:
