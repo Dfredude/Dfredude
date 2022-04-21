@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ### ⚡ Work experience:
+- Incoming Web Deceloper at Samsung Q2 2022
 - Information Technology Intern at NORMA Group
 - [Sorting Algorithms Visualizer](https://github.com/Dfredude/sorting-visualizer)
 - [Vaccination Landing Page Mock-Up](https://vaccination-landing-page.netlify.app)
