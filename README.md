@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### ⚡ Work experience:
-- Incoming Web Developer at Samsung Summer 2022
+- Software Developer at Samsung Summer 2022
 - Information Technology Intern at NORMA Group
 - [Sorting Algorithms Visualizer](https://github.com/Dfredude/sorting-visualizer)
 - [Vaccination Landing Page Mock-Up](https://vaccination-landing-page.netlify.app)
