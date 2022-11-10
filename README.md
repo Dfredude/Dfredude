@@ -1,15 +1,14 @@
 ## Hi there 👋
 
 ### ⚡ Work experience:
-- Software Developer at Samsung
-- [Sorting Algorithms Visualizer](https://github.com/Dfredude/sorting-visualizer)
-- [Vaccination Landing Page Mock-Up](https://vaccination-landing-page.netlify.app)
+- Tutor at NSCC (Databases and programming)
+- Software Developer at Samsung Electronics
 
-### 🔭 I’m currently working on:
+### 🔭 Side open-source projects
+- [Sorting Algorithms Visualizer](https://github.com/Dfredude/sorting-visualizer)
 - [Food App](https://github.com/Dfredude/food-bot)
 - [Zen](https://github.com/heben-mx/zen)
 - [Pokemon Pokedex](https://github.com/Pancartex/pokemon-pokedex)
-- SmartTV Application
 
 ### 🐍 Fun fact:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfredude&layout=compact)](https://github.com/dfredude)
