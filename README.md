@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ### ⚡ Work experience:
+- Software Development Intern at GaoTek
 - Tutor at NSCC (Databases and programming)
 - Software Developer at Samsung Electronics
 
