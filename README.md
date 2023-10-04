@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 ### ⚡ Work experience:
-- Software Development Intern at GaoTek
 - Tutor at NSCC (Database Systems, Web Development - JavaScript, Java, C++)
 - Software Developer at Samsung Electronics
+- Information Technology Intern at NORMA Group
 
 ### 🔭 Side projects
 - [Sorting Algorithms Visualizer](https://github.com/Dfredude/sorting-visualizer)
