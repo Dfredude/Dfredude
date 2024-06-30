@@ -1,16 +1,16 @@
 ## Hi there 👋
 
 ### ⚡ Work experience:
-- Tutor at NSCC (Database Systems, Web Development - JavaScript, Java, C++)
+- Product Manager at Zen
+- Tutor at TutorMe and NSCC (Database Systems, Web Development - JavaScript, OOP - Java, C++, Machine Learning)
 - Software Developer at Samsung Electronics
 - Information Technology Intern at NORMA Group
 
-### 🔭 Side projects
+### 🔭 Open Source projects
 - [Sorting Algorithms Visualizer](https://github.com/Dfredude/sorting-visualizer)
-- [Zen](https://github.com/heben-mx/zen)
-- Map Chat (Coming soon)
+- [MapChat](https://github.com/yuheng-w/Map_Chat)
 > #### Checkout my blog [here](https://dfredude.github.io/my_blog/)
-> #### Checkout my protfolio [here](https://freddomcv.web.app/)
+> #### Checkout my portfolio [here](https://freddomcv.web.app/)
 ### 🐍 Fun facts:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfredude&layout=compact)](https://github.com/dfredude)
 
