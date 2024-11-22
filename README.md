@@ -9,6 +9,7 @@
 ### 🔭 Open Source projects
 - [Sorting Algorithms Visualizer](https://github.com/Dfredude/sorting-visualizer)
 - [MapChat](https://github.com/yuheng-w/Map_Chat)
+- [LinkedInium](https://github.com/Dfredude/linkedinium)
 > #### Checkout my blog [here](https://dfredude.github.io/my_blog/)
 > #### Checkout my portfolio [here](https://freddomcv.web.app/)
 ### 🐍 Fun facts:
