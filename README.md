@@ -7,7 +7,7 @@
 - Information Technology Intern at NORMA Group
 
 ### 🔭 Open Source projects
-- [Sorting Algorithms Visualizer](https://github.com/Dfredude/sorting-visualizer)
+- [Sorting Algorithms Visualizer](https://dfredude.github.io/sorting-visualizer/)
 - [MapChat](https://github.com/yuheng-w/Map_Chat)
 - [LinkedInium](https://github.com/Dfredude/linkedinium)
 > #### Checkout my blog [here](https://dfredude.github.io/my_blog/)
