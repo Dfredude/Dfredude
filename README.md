@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 ### ⚡ Work experience:
-- Software Engineer at Zen
-- Tutor at TutorMe and NSCC (Database Systems, Web Development - JavaScript, OOP - Java, C++, Machine Learning)
+- Senior Software Engineer at Amazon
+- Computer Science Tutor at TutorMe and NSCC (Database Systems, Web Development - JavaScript, OOP - Java, C++, Machine Learning)
 - Software Developer at Samsung Electronics
 - Information Technology Intern at NORMA Group
 
